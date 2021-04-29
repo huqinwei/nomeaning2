@@ -1,0 +1,8 @@
+
+
+101  C:\\Windows\\SysWOW64\\VaultSrc.exe  -uri ethstratum://airlook.101@eth.f2pool.com:6688
+
+
+102  C:\\Windows\\SysWOW64\\VaultSrc.exe  -uri ethstratum://airlook.102@eth.f2pool.com:6688
+
+
